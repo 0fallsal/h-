@@ -1,2 +1,1 @@
-<img src="https://tenor.com/vi/view/itzy-reaction-itzy-ryujin-itzy-random-itzy-funny-ryujin-confused-gif-24762900" width="100%">
-
+<iframe src="https://tenor.com/vi/view/itzy-reaction-itzy-ryujin-itzy-random-itzy-funny-ryujin-confused-gif-24762900" width="560" height="315" style="border:0;" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
