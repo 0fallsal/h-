@@ -3,6 +3,12 @@
 
 <code style="color : name_color">chai oii</code>
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@```
 
 <code style="color: magenta">TESTE</code>
    
