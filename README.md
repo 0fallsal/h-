@@ -2,7 +2,10 @@
 
 
 
-<img width="300" height="109" alt="Tài liệu không có tiêu đề" src="https://github.com/user-attachments/assets/484729fd-366f-4719-b714-1e1b6829a09a" />
+<span style="color:red">
+Text content
+</span>
+
 
 
 
