@@ -13,3 +13,9 @@
 <code style="color: magenta">TESTE</code>
    
              
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in blue)@@```
