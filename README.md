@@ -1,1 +1,1 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/zWbVPj4P/red-hair-shinyuna.gif" alt="red hair shinyuna" border="0"></a><br /><a target='_blank' href='https://vi.imgbb.com/'>
+<https://tenor.com/vi/view/itzy-reaction-itzy-ryujin-itzy-random-itzy-funny-ryujin-confused-gif-24762900>
