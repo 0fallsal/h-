@@ -1,1 +1,1 @@
-![Demo](<a href="https://imgbb.com/"><img src="https://i.ibb.co/zWbVPj4P/red-hair-shinyuna.gif" alt="red hair shinyuna" border="0"></a><br /><a target='_blank' href='https://vi.imgbb.com/'>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/zWbVPj4P/red-hair-shinyuna.gif" alt="red hair shinyuna" border="0"></a><br /><a target='_blank' href='https://vi.imgbb.com/'>
